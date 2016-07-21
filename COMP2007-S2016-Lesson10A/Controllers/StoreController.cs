@@ -5,6 +5,13 @@ using System.Web;
 using System.Web.Mvc;
 using COMP2007_S2016_Lesson10A.Models;
 
+/**
+ * @author: Tom Tsiliopoulos
+ * @description: This is the Store Controller
+ * @date: July 21, 2016
+ * 
+ */
+
 namespace COMP2007_S2016_Lesson10A.Controllers
 {
     
